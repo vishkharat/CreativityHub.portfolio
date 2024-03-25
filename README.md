@@ -2,11 +2,11 @@
 Welcome to CreativityHub, a portfolio website showcasing the work of Vishal Kharat, a passionate web developer, photographer, web designer, and videographer. This website serves as a digital home where Vishal shares his journey, projects, services, and testimonials.
 
 ## Table of Contents
-# About
-# Services
-# Portfolio
-# Testimonials
-# Contact
+ About
+ Services
+ Portfolio
+ Testimonials
+ Contact
 
 About
 In the About section, you'll find a brief introduction to Vishal Kharat. Learn about his background, skills, and dedication to web development.
